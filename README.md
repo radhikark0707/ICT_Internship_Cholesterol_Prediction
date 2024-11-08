@@ -1,18 +1,18 @@
-#Cholesterol Prediction using Ensemble and Stacking Models
--Table of Contents
--Introduction
--Project Overview
--Datasets Used
--Data Preprocessing
--Feature Engineering
--Modeling Approach
--Stacking and Meta-Model
--Evaluation Metrics
--Results
--Deployment
--Conclusion
--Future Work
--Acknowledgements
+## Cholesterol Prediction using Ensemble and Stacking Models
+- Table of Contents
+- Introduction
+- Project Overview
+- Datasets Used
+- Data Preprocessing
+- Feature Engineering
+- Modeling Approach
+- Stacking and Meta-Model
+- Evaluation Metrics
+- Results
+- Deployment
+- Conclusion
+- Future Work
+- Acknowledgements
 Introduction
 This project aims to predict cholesterol levels using machine learning techniques on two separate health datasets. By leveraging feature engineering, advanced modeling techniques, and ensemble learning, this project attempts to create a robust predictive model that can assist in assessing cholesterol levels and identifying high-risk individuals.
 
